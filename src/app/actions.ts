@@ -2,7 +2,7 @@
 
 import { generateCuratedCollections } from '@/ai/flows/generate-curated-collections';
 import { generateProductDescription } from '@/ai/flows/generate-product-description';
-import { getProductById } from './lib/data';
+import { getProductById } from '@/lib/data';
 import type { CuratedCollection } from './lib/types';
 
 export async function generateDescriptionAction(productName: string, keywords: string) {
