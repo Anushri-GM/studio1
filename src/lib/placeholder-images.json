@@ -1,3 +1,82 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "ceramic-mug",
+      "description": "A handmade ceramic mug.",
+      "imageUrl": "https://picsum.photos/seed/101/400/400",
+      "imageHint": "ceramic mug"
+    },
+    {
+      "id": "leather-wallet",
+      "description": "A handcrafted leather wallet.",
+      "imageUrl": "https://picsum.photos/seed/102/400/400",
+      "imageHint": "leather wallet"
+    },
+    {
+      "id": "knitted-scarf",
+      "description": "A soft, warm knitted scarf.",
+      "imageUrl": "https://picsum.photos/seed/103/400/400",
+      "imageHint": "knitted scarf"
+    },
+    {
+      "id": "wooden-bowl",
+      "description": "A hand-carved wooden bowl.",
+      "imageUrl": "https://picsum.photos/seed/104/400/400",
+      "imageHint": "wooden bowl"
+    },
+    {
+      "id": "silver-necklace",
+      "description": "A delicate silver necklace with a pendant.",
+      "imageUrl": "https://picsum.photos/seed/105/400/400",
+      "imageHint": "silver necklace"
+    },
+    {
+      "id": "canvas-tote",
+      "description": "A sturdy canvas tote bag with a printed design.",
+      "imageUrl": "https://picsum.photos/seed/106/400/400",
+      "imageHint": "canvas tote"
+    },
+    {
+      "id": "handmade-soap",
+      "description": "A bar of all-natural handmade soap.",
+      "imageUrl": "https://picsum.photos/seed/107/400/400",
+      "imageHint": "handmade soap"
+    },
+    {
+      "id": "art-print",
+      "description": "A high-quality art print of a landscape.",
+      "imageUrl": "https://picsum.photos/seed/108/400/400",
+      "imageHint": "art print"
+    },
+    {
+      "id": "elara-vance",
+      "description": "Avatar for artisan Elara Vance.",
+      "imageUrl": "https://picsum.photos/seed/201/200/200",
+      "imageHint": "woman portrait"
+    },
+    {
+      "id": "marcus-finch",
+      "description": "Avatar for artisan Marcus Finch.",
+      "imageUrl": "https://picsum.photos/seed/202/200/200",
+      "imageHint": "man portrait"
+    },
+    {
+      "id": "seraphina-moon",
+      "description": "Avatar for artisan Seraphina Moon.",
+      "imageUrl": "https://picsum.photos/seed/203/200/200",
+      "imageHint": "woman smiling"
+    },
+     {
+      "id": "liam-rhodes",
+      "description": "Avatar for artisan Liam Rhodes.",
+      "imageUrl": "https://picsum.photos/seed/204/200/200",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "user-avatar",
+      "description": "Default user avatar for user navigation menu.",
+      "imageUrl": "https://picsum.photos/seed/301/100/100",
+      "imageHint": "person silhouette"
+    }
+  ]
 }
